@@ -1,4 +1,4 @@
 Find_a_Writer
 =============
 
-Find a writer challenge.
+https://www.codeeval.com/open_challenges/97/
